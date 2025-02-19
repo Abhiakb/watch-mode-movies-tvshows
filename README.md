@@ -24,7 +24,7 @@ Displays title, description, release date, and poster image.
 
 API Integration
 
-Uses Publishers.Zip from the Combine framework to perform two API calls simultaneously (fetching movies and shows together).
+url session to perform two API calls simultaneously (fetching movies and shows together).
 
 Error Handling
 
